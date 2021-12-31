@@ -1,8 +1,8 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Chris Wilson
+bio: Lead DevOps Engineer
 
-description: Eve Adam's Personal Website
+description: Chris Wilson's Personal Website
 
 # Profile picture
 picture: assets/images/profile.jpg
@@ -15,20 +15,20 @@ social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
+twitter: chriswilson7374
+linkedin: chris-🦧-wilson-8468a9192
+github: living-etc
 email: myemail@gmail.com
 # google: mygoogle
-# instagram: myinstagram
+instagram: chris.wilson.7374
 # pinterest: mypinterest
-# youtube: myyoutube
+youtube: UCKuwjwM9j0fgkHchsco-3Wg
 # spotify: myspotify
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: chris-wilson
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 
@@ -81,7 +81,7 @@ project-list:
 footer: true
 
 # Enable animations? true or false
-animation: true
+animation: false
 
 gems:
   - jekyll-seo-tag
