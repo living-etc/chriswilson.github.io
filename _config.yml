@@ -38,7 +38,7 @@ medium: chris-wilson
 width: normal
 
 # do you want to display an about section? true or false
-about: true
+about: false
 
 # do you want to display a skills section? true or false
 skills: false
